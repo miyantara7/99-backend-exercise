@@ -1,0 +1,16 @@
+# Ignore virtualenv dir
+env/
+.venv/
+
+# Ignore SQLite db files
+*.db
+/.idea/
+.DS_Store
+/data/
+/bin/
+/.run/
+/logs/
+/user-service/data/
+/public-api/bin/
+/user-service/bin/
+/main
